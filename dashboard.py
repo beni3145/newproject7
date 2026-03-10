@@ -18,7 +18,7 @@ selected_metric = st.sidebar.selectbox(
 # Create sample data
 data = {
     'Month': ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
-    'Sales': [120, 150, 180, 160, 200, 220],
+    'Sales': [125, 150, 180, 160, 200, 220],
     'Revenue': [12000, 15000, 18000, 16000, 20000, 22000],
     'Users': [500, 650, 800, 750, 900, 1000],
     'Engagement': [65, 70, 75, 72, 80, 85]
